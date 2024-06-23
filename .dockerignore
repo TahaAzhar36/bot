@@ -1,10 +1,10 @@
-.pnp.*
+.git/
 .yarn/*
-!.yarn/patches
-!.yarn/plugins
 !.yarn/releases
+!.yarn/plugins
 !.yarn/sdks
 !.yarn/versions
+**/.pnp.*
 node_modules
 
 yarn-debug.log*
